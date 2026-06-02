@@ -57,8 +57,8 @@ A web-based MIDI piano trainer with falling notes, practice mode, MIDI keyboard 
 
 **Tools used:** HTML, CSS, JavaScript, Canvas, Web MIDI API, Tone.js, Vercel, AI assistance  
 **Status:** Deployed with Vercel  
-**GitHub:** Add GitHub repo link here  
-**Live Website:** Add Vercel link here
+**GitHub:** https://github.com/ArtinSHF/NeoKeys
+**Live Website:** https://neo-keys.vercel.app
 
 ---
 

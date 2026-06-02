@@ -52,6 +52,16 @@ I use Blender to create different visual projects, such as cars racing, fighter 
 
 ---
 
+### 🎹 NeoKeys
+A web-based MIDI piano trainer with falling notes, practice mode, MIDI keyboard input, and Vercel deployment.
+
+**Tools used:** HTML, CSS, JavaScript, Canvas, Web MIDI API, Tone.js, Vercel, AI assistance  
+**Status:** Deployed with Vercel  
+**GitHub:** Add GitHub repo link here  
+**Live Website:** Add Vercel link here
+
+---
+
 ## 🔜 Projects Coming to GitHub Soon
 
 ### 🤖 JARVIS - Personal AI Project

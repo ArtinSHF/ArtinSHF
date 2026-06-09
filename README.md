@@ -8,6 +8,20 @@ I like turning ideas into real projects. I have worked with Roblox Studio, Unrea
 
 ## 🚀 Featured Projects
 
+### 🤖 JARVIS
+
+A personal AI assistant built in Python that combines voice commands, automation tools, screen understanding, reminders, notifications, mobile access, and AI-powered conversations.
+
+JARVIS can interact with the PC, connect to a phone through Tailscale, manage reminders and notes, monitor notifications, perform Wake-on-LAN actions, and integrate with Gemini AI for intelligent responses.
+
+**Tools used:** Python, Flask, Tailscale, Gemini API, HTML, CSS, JavaScript, VS Code, AI assistance
+
+**Status:** Public on GitHub and actively under development
+
+**GitHub:** https://github.com/ArtinSHF/JARVIS
+
+---
+
 ### 🎮 The Temple Ch1
 A first-person horror game made in Unreal Engine 5 and published on Steam.
 
@@ -64,27 +78,32 @@ A web-based MIDI piano trainer with falling notes, practice mode, MIDI keyboard 
 
 ## 🔜 Projects Coming to GitHub Soon
 
-### 🤖 JARVIS - Personal AI Project
-A personal AI-inspired assistant project that can control parts of my PC, connect to my phone, open apps, understand my screen, and help with automation.
+### 🦖 Rexwood
 
-**Tools used:** VS Code, Tailscale, Gemini API, Claude AI, AI assistance  
-**Status:** Under development, planned for GitHub later after a big update  
+A Roblox horror game where you survive after a car crash deep inside a forest that is being hunted by a dangerous Tyrannosaurus Rex.
+
+Players must explore, find supplies, complete objectives, and avoid becoming the dinosaur's next meal.
+
+**Tools used:** Roblox Studio, Blender, VS Code, AI assistance
+**Status:** In development
 
 ---
 
 ### 🔫 Hotline Hillerød
+
 A small game inspired by Hotline Miami, made for my friends and set in my local city with friends as characters.
 
-**Tools used:** VS Code, AI assistance  
-**Status:** Private project, may be uploaded later  
+**Tools used:** VS Code, AI assistance
+**Status:** Private project, may be uploaded later
 
 ---
 
 ### 🧩 Among Us Mods
+
 A collection of modding experiments made for personal use.
 
-**Tools used:** Visual Studio, Claude AI, C# / modding tools  
-**Status:** Personal projects, may be uploaded later if cleaned up and safe to share  
+**Tools used:** Visual Studio, Claude AI, C# / modding tools
+**Status:** Personal projects, may be uploaded later if cleaned up and safe to share
 
 ---
 

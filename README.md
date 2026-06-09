@@ -18,7 +18,7 @@ JARVIS can interact with the PC, connect to a phone through Tailscale, manage re
 
 **Status:** Public on GitHub and actively under development
 
-**GitHub:** https://github.com/ArtinSHF/JARVIS
+**GitHub:** https://github.com/ArtinSHF/Jarvis-ai-assistant
 
 ---
 

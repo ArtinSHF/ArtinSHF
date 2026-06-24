@@ -22,6 +22,15 @@ JARVIS can interact with the PC, connect to a phone through Tailscale, manage re
 
 ---
 
+### ⚔️ IronTide
+A browser-based real-time war strategy game played on a satellite world map. Pick any two bordering countries, deploy your forces, and fight for total territorial control — powered by a cell-grid simulation, autonomous AI opponent, and population-scaled armies.  
+**Tools used:** HTML, CSS, JavaScript, Leaflet.js, TopoJSON, world-atlas, ArcGIS Tiles, Vercel, AI assistance  
+**Status:** Deployed with Vercel  
+**GitHub:** https://github.com/ArtinSHF/IronTide  
+**Live Website:** [your-vercel-link-here]
+
+---
+
 ### 🎮 The Temple Ch1
 A first-person horror game made in Unreal Engine 5 and published on Steam.
 

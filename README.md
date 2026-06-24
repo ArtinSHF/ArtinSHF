@@ -27,7 +27,7 @@ A browser-based real-time war strategy game played on a satellite world map. Pic
 **Tools used:** HTML, CSS, JavaScript, Leaflet.js, TopoJSON, world-atlas, ArcGIS Tiles, Vercel, AI assistance  
 **Status:** Deployed with Vercel  
 **GitHub:** https://github.com/ArtinSHF/IronTide  
-**Live Website:** [your-vercel-link-here]
+**Live Website:** https://iron-tide-beryl.vercel.app/
 
 ---
 

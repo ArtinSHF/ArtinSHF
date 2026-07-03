@@ -43,6 +43,15 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
+### 🪟 GlassHouse
+A lightweight Python security-awareness demo that shows exactly what an ordinary, non-admin program can see about your system — then runs a fully simulated fake "info-stealer" animation to illustrate what real malware might display, before explaining the difference. No real data is ever accessed or transmitted.
+
+**Tools used:** Python, psutil, requests, PyInstaller, AI assistance
+**Status:** Uploaded to GitHub
+**GitHub:** https://github.com/ArtinSHF/GlassHouse
+
+---
+
 ### 🌐 ZILCH - Free Games Radar
 A cyberpunk-style web page that helps track legitimate free game promotions and giveaways from platforms like Steam, Epic Games, and GOG.
 

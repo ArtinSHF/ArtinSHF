@@ -53,10 +53,11 @@ A lightweight Python security-awareness demo that shows exactly what an ordinary
 ---
 
 ### 🌐 ZILCH - Free Games Radar
-A cyberpunk-style web page that helps track legitimate free game promotions and giveaways from platforms like Steam, Epic Games, and GOG.
+A cyberpunk-style web application and real-time deal tracker that compares game prices, deep discounts, and free promotions across official stores like Steam, Epic Games, and GOG, alongside verified key resellers.
 
-**Tools used:** HTML, CSS, JavaScript, VS Code, Live Server, AI assistance  
-**Status:** Uploaded to GitHub  
+**Tools used:** HTML, CSS, JavaScript, VS Code, Live Server, Vercel, AI assistance  
+**Status:** Deployed & Live  
+**Live Demo:** https://zilch-two.vercel.app/
 **GitHub:** https://github.com/ArtinSHF/ZILCH
 
 ---

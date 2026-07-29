@@ -43,6 +43,15 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
+🕯️ Cozy Studio
+A web-based lofi focus timer with animated cozy atmospheres, layered ambient soundscapes, task list, daily streaks, and Vercel deployment.
+Tools used: HTML, CSS, JavaScript, Canvas API, Web Audio API, Vercel, AI assistance
+Status: Deployed with Vercel
+GitHub: https://github.com/ArtinSHF/Cozy-Studio
+Live Website: https://cozy-studio-beta.vercel.app/
+
+---
+
 ### 🪟 GlassHouse
 A lightweight Python security-awareness demo that shows exactly what an ordinary, non-admin program can see about your system — then runs a fully simulated fake "info-stealer" animation to illustrate what real malware might display, before explaining the difference. No real data is ever accessed or transmitted.
 

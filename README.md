@@ -50,7 +50,7 @@ A premium mobile-first music player PWA for uploading, organizing, and listening
 **Tools used:** HTML, CSS, JavaScript, IndexedDB, HTML5 Audio API, Media Session API, PWA, Vercel, GitHub, AI assistance
 **Status:** Deployed with Vercel
 **GitHub:** https://github.com/ArtinSHF/Lumen
-**Live Website:** https://YOUR-LUMEN-URL.vercel.app/
+**Live Website:** https://lumen-puce-eight.vercel.app/
 
 ---
 

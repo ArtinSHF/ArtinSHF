@@ -43,13 +43,14 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
-### 🕯️ Cozy Studio
-A web-based lofi focus timer with animated cozy atmospheres, layered ambient soundscapes, task list, daily streaks, and Vercel deployment.
+### 🎵 Lumen
 
-**Tools used:**: HTML, CSS, JavaScript, Canvas API, Web Audio API, Vercel, AI assistance
+A premium mobile-first music player PWA for uploading, organizing, and listening to personal MP3 files with persistent local storage, playlist controls, and background playback support.
+
+**Tools used:** HTML, CSS, JavaScript, IndexedDB, HTML5 Audio API, Media Session API, PWA, Vercel, GitHub, AI assistance
 **Status:** Deployed with Vercel
-**GitHub:** https://github.com/ArtinSHF/Cozy-Studio
-**Live Website:** https://cozy-studio-beta.vercel.app/
+**GitHub:** https://github.com/ArtinSHF/Lumen
+**Live Website:** https://YOUR-LUMEN-URL.vercel.app/
 
 ---
 

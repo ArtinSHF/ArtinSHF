@@ -29,7 +29,7 @@ A modern AI-powered survey and interactive interview platform for building custo
 **Tools used:** HTML, CSS, JavaScript, localStorage, Web Audio API, Google Gemini API, Vercel, GitHub, AI assistance
 **Status:** Deployed with Vercel
 **GitHub:** https://github.com/ArtinSHF/InsightPulse
-**Live Website:** insight-pulse-nu.vercel.app
+**Live Website:**  https://insight-pulse-nu.vercel.app
 
 ---
 

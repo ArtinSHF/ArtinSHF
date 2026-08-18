@@ -22,6 +22,17 @@ JARVIS can interact with the PC, connect to a phone through Tailscale, manage re
 
 ---
 
+### 📊 InsightPulse
+
+A modern AI-powered survey and interactive interview platform for building custom questionnaires, managing sequential participants, collecting responses, switching dynamic themes, and generating insights with Google Gemini.
+
+**Tools used:** HTML, CSS, JavaScript, localStorage, Web Audio API, Google Gemini API, Vercel, GitHub, AI assistance
+**Status:** Deployed with Vercel
+**GitHub:** https://github.com/ArtinSHF/InsightPulse
+**Live Website:** insight-pulse-nu.vercel.app
+
+---
+
 ### ⚔️ IronTide
 A browser-based real-time war strategy game played on a satellite world map. Pick any two bordering countries, deploy your forces, and fight for total territorial control — powered by a cell-grid simulation, autonomous AI opponent, and population-scaled armies.  
 **Tools used:** HTML, CSS, JavaScript, Leaflet.js, TopoJSON, world-atlas, ArcGIS Tiles, Vercel, AI assistance  

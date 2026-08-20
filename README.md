@@ -24,12 +24,12 @@ JARVIS can interact with the PC, connect to a phone through Tailscale, manage re
 
 ### 📊 InsightPulse
 
-A modern AI-powered survey and interactive interview platform for building custom questionnaires, managing sequential participants, collecting responses, switching dynamic themes, and generating insights with Google Gemini.
+A modern AI-powered survey and interactive interview platform for creating custom questionnaires, managing sequential participants, collecting responses, sharing public interview links, managing respondent limits, authenticating creators with Supabase, protecting auth with Cloudflare Turnstile, and generating insights with Google Gemini.
 
-**Tools used:** HTML, CSS, JavaScript, localStorage, Web Audio API, Google Gemini API, Vercel, GitHub, AI assistance
-**Status:** Deployed with Vercel
-**GitHub:** https://github.com/ArtinSHF/InsightPulse
-**Live Website:**  https://insight-pulse-nu.vercel.app
+**Tools used:** Next.js, React, Supabase, PostgreSQL, Cloudflare Turnstile, JavaScript, HTML, CSS, Web Audio API, Google Gemini API, MyMemory API, Vercel, GitHub, AI assistance  
+**Status:** Deployed with Vercel  
+**GitHub:** https://github.com/ArtinSHF/InsightPulse  
+**Live Website:** https://insight-pulse-nu.vercel.app
 
 ---
 

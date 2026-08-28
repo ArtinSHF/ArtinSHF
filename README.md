@@ -29,8 +29,7 @@ A futuristic global intelligence platform that combines an interactive 3D Earth 
 **Tools used:** JavaScript, React, 3D Web Technology, Mapping APIs, Public Data APIs, Vercel, GitHub, AI assistance
 **Status:** In development
 **GitHub:** https://github.com/ArtinSHF/ORBITA
-**Live Website:** Coming soon
-
+**Live Website:** https://orbita-rho-opal.vercel.app/
 ---
 
 ### 📊 InsightPulse

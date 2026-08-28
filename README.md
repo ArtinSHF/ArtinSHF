@@ -22,16 +22,6 @@ JARVIS can interact with the PC, connect to a phone through Tailscale, manage re
 
 ---
 
-### 🛰️ ORBITA
-
-A futuristic global intelligence platform that combines an interactive 3D Earth with real-time satellite, aircraft, weather, earthquake, volcano, and space data.
-
-**Tools used:** JavaScript, React, 3D Web Technology, Mapping APIs, Public Data APIs, Vercel, GitHub, AI assistance
-**Status:** In development
-**GitHub:** https://github.com/ArtinSHF/ORBITA
-**Live Website:** https://orbita-rho-opal.vercel.app/
----
-
 ### 📊 InsightPulse
 
 A modern AI-powered survey and interactive interview platform for creating custom questionnaires, managing sequential participants, collecting responses, sharing public interview links, managing respondent limits, authenticating creators with Supabase, protecting auth with Cloudflare Turnstile, and generating insights with Google Gemini.

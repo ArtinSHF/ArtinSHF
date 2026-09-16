@@ -54,6 +54,17 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
+### 🏡 The Future Is Built at Home
+
+A warm, editorial landing page celebrating family life, parenthood, love, and the everyday moments that shape the future.
+
+**Tools used:** HTML, CSS, JavaScript, Tailwind CSS, Google Fonts, Unsplash, Vercel, GitHub, AI assistance  
+**Status:** Deployed with Vercel  
+**GitHub:** https://github.com/ArtinSHF/the-future-is-built-at-home  
+**Live Website:** https://the-future-is-built-at-home.vercel.app/
+
+---
+
 ### 🎵 Lumen
 
 A premium mobile-first music player PWA for uploading, organizing, and listening to personal MP3 files with persistent local storage, playlist controls, and background playback support.

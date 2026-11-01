@@ -43,8 +43,8 @@ A browser-based real-time war strategy game played on a satellite world map. Pic
 ---
 
 ### 🎮 The Temple Ch1
-A first-person horror game made in Unreal Engine 5 and published on Steam.
 
+A first-person horror game made in Unreal Engine 5 and published on Steam. 
 The game is about escaping another reality through a dark, Gothic horror world with ghosts, a monster, and atmospheric exploration.
 
 **Tools used:** Unreal Engine 5, Blueprints, Blender, FAB assets, AI assistance, Steamworks  
@@ -54,7 +54,19 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
+### 🦠 Zero-Hour
+
+A browser-based real-time outbreak strategy game played on an interactive world map. Create and evolve a pathogen, spread across borders through global travel networks, and outpace humanity’s response — or defend civilization in Cure Mode through research, containment, vaccine production, and public-trust management.
+
+**Tools used:** HTML, CSS, JavaScript, HTML5 Canvas, SVG, TopoJSON, world-atlas / Natural Earth, Web Audio API, Web Speech API, Wikipedia / Wikimedia APIs, localStorage, Google Fonts, AI assistance
+**Status:** Deployed with Vercel
+**GitHub:** https://github.com/ArtinSHF/ZERO-HOUR
+**Live Website:** https://zero-hour-coral.vercel.app/
+
+---
+
 ### 🪖 Trench-Siege-Dead-Zone
+
 A browser-based real-time zombie tower defense game set across war-torn trenches, ruined outposts, and bunker corridors. Build and upgrade your defenses, deploy tactical airstrikes and traps, and survive increasingly dangerous hordes — powered by a custom Canvas engine, specialized enemies, dynamic weather, and permanent research progression.
 
 **Tools used:** HTML, CSS, JavaScript, HTML5 Canvas, Web Audio API, localStorage, AI assistance

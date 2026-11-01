@@ -54,6 +54,16 @@ The game is about escaping another reality through a dark, Gothic horror world w
 
 ---
 
+### Trench-Siege-Dead-Zone
+A browser-based real-time zombie tower defense game set across war-torn trenches, ruined outposts, and bunker corridors. Build and upgrade your defenses, deploy tactical airstrikes and traps, and survive increasingly dangerous hordes — powered by a custom Canvas engine, specialized enemies, dynamic weather, and permanent research progression.
+
+**Tools used:** HTML, CSS, JavaScript, HTML5 Canvas, Web Audio API, localStorage, AI assistance
+**Status:** Deployed with Vercel
+**GitHub:** [Add repository URL]
+**Live Website:** [Add live website URL]
+
+---
+
 ### 🏡 The Future Is Built at Home
 
 A warm, editorial landing page celebrating family life, parenthood, love, and the everyday moments that shape the future.
